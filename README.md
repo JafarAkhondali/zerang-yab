@@ -1,6 +1,6 @@
-# ZerangYab - Minitool to find accounts that are not following you back.  
+# ZerangYab - Minitool browser extension to find accounts that are not following you back.  
 
-
+![output2](https://user-images.githubusercontent.com/11364402/107699728-bc679d00-6ccb-11eb-8a18-86f786764b4f.gif)
 ---
 Usage: Head to your profile "Following" section, and then you'll see the list of UnFollowers above of people you  are following.
 
